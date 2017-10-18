@@ -46,3 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/***************************  Custom Styles  ******************************/
+
+h1 {
+color: rgb(162, 13, 57);
+font-size: 300%;
+}
